@@ -1,0 +1,12 @@
+fid,field_1,link,date,x,y,image_name,location
+1,1,"https://www.google.com/maps/@51.5139941,-0.1043742,3a,75y,178.32h,90.39t/data=!3m6!1e1!3m4!1sYrVptjPsJFHTC-Qay5BZjQ!2e0!7i16384!8i8192",515,51.5139941,-0.1043742,panorama-YrVptjPsJFHTC-Qay5BZjQ,London
+2,2,"https://www.google.com/maps/@51.513922,-0.1043577,3a,75y,178.32h,90.39t/data=!3m6!1e1!3m4!1sM5pHkXRHIBMW0KAog-wOSA!2e0!7i16384!8i8192",515,51.513922,-0.1043577,panorama-M5pHkXRHIBMW0KAog-wOSA,London
+3,3,"https://www.google.com/maps/@51.5138389,-0.1043385,3a,75y,178.32h,90.39t/data=!3m6!1e1!3m4!1svtToLU5PLWSMqujnvenEhA!2e0!7i16384!8i8192",515,51.5138389,-0.1043385,panorama-vtToLU5PLWSMqujnvenEhA,London
+4,4,"https://www.google.com/maps/@51.5137528,-0.1043188,3a,75y,178.32h,90.39t/data=!3m6!1e1!3m4!1s3uU6OUYhw4Hz-amAVZk9ug!2e0!7i16384!8i8192",515,51.5137528,-0.1043188,panorama-3uU6OUYhw4Hz-amAVZk9ug,London
+5,5,"https://www.google.com/maps/@51.513673,-0.1042963,3a,75y,178.32h,90.39t/data=!3m6!1e1!3m4!1stdmBpLbc-rW38WVgZoKJhg!2e0!7i16384!8i8192",515,51.513673,-0.1042963,panorama-tdmBpLbc-rW38WVgZoKJhg,London
+6,6,"https://www.google.com/maps/@51.5135873,-0.1042655,3a,75y,178.32h,90.39t/data=!3m6!1e1!3m4!1sAuMcy6Uo4TWp-twLBqSaSw!2e0!7i16384!8i8192",515,51.5135873,-0.1042655,panorama-AuMcy6Uo4TWp-twLBqSaSw,London
+7,7,"https://www.google.com/maps/@51.5134589,-0.1042278,3a,75y,178.32h,90.39t/data=!3m6!1e1!3m4!1s15eHMcCXCD6uoH189Y6yig!2e0!7i16384!8i8192",515,51.5134589,-0.1042278,panorama-15eHMcCXCD6uoH189Y6yig,London
+8,8,"https://www.google.com/maps/@51.513373,-0.1042146,3a,75y,178.32h,90.39t/data=!3m6!1e1!3m4!1sVCtskBxAxnL5Aplhs7dogQ!2e0!7i16384!8i8192",515,51.513373,-0.1042146,panorama-VCtskBxAxnL5Aplhs7dogQ,London
+9,9,"https://www.google.com/maps/@51.5132868,-0.1042034,3a,75y,178.32h,90.39t/data=!3m6!1e1!3m4!1sn1rGt81qmx9wORvbllBP9A!2e0!7i16384!8i8192",515,51.5132868,-0.1042034,panorama-n1rGt81qmx9wORvbllBP9A,London
+10,10,"https://www.google.com/maps/@51.5132,-0.1041955,3a,75y,178.32h,90.39t/data=!3m6!1e1!3m4!1sZh0-ivrQOJXV814tZCI0XA!2e0!7i16384!8i8192",515,51.5132,-0.1041955,panorama-Zh0-ivrQOJXV814tZCI0XA,London
+,,,,,,,
